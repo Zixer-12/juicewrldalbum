@@ -1,0 +1,6 @@
+<html>
+    <head>
+        <title>anime me for life</title>
+        <body>welcome to anime world</body>
+    <head>
+<html>
